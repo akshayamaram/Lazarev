@@ -370,7 +370,7 @@ nav button svg {
 }
 
 .sec-left p {
-  color: #fff;
+  color: #000;
   margin-top: 10vh;
   font-size: 1.2vw;
   /* width: 80%; */
@@ -501,6 +501,7 @@ nav button svg {
   position: relative;
   transition: all cubic-bezier(0.19, 1, 0.22, 1) 1s;
   z-index: 8;
+  color: #fff;
 }
 
 .over {
